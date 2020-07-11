@@ -1,0 +1,91 @@
+#!/bin/bash
+
+一. 单词短语
+
+	1. in the zone							(尤其在运动中)集中精力的，处于良好状态的
+
+	2. pass into								逐渐变成
+
+	3. natural occuring groundwater			天然存在的地下水
+		occur除了发生还有存在的意思
+	
+	4. fracture								n./v. 破裂，断裂
+
+	
+二. 托福阅读背诵
+
+	1. Earth\'s internal heat, fueled by radioactivity, provides the energy for plate tactonics and continental drift, mountain building, and earthquakes.
+	
+	2. It can also be harnessed to drive electic generators and heat homes.
+	
+	3. Geothermal energy becomes available in a practical form when underground heat is transferred by water that is heated as it passes through a subsurface
+	      region of hot rocks that may be hundreds or thousands of feet deep.
+		  
+	4. The water is usually naturally occurring groundwater that seep down along fractures in the rock; less typically, the water is artificially introduced
+	      by being pumped down from the surface.
+		  
+	5. The water is brought to the surface, as a liquid or steam, through holes drilled for the purpose.
+
+	
+三. 考博词汇
+	
+	1. alive with							充满
+		eg. Th dead tree is alive with insects.		这棵枯树上爬满了昆虫。
+		
+	2. alga									n. 海藻，水藻
+	      allegation							n. 断言，主张，见解	 == assertion, claim, statement
+	      allege								vt. 断言，声称，宣称
+	      alley									n. 小巷，胡同；小径，小路
+		  
+	3. alleviate								vt. 减轻，缓解，缓和
+
+	4. alliance	with/against				n. 结盟
+	
+	5. alliteration							n. 头韵
+	
+	6. make allowances for 					考虑，顾及；体谅，原谅
+	      make an excuse to + v.原型				要借口
+	      make excuses to sth.					为……找理由
+	      in excuse of							作为……的借口
+		  
+	      on the plea of							借口
+	      give an account of						解释……（理由）；叙说
+	      take account of / take sth. into account	考虑
+		  
+	7. alloy									合金
+	
+	8. ally with								使结盟
+	      gear to								使适应，使合适
+		  
+	9. all alone								独自一人，孤零零地
+	      leave sb. alone						听其自然，不要去管，让某人独自留在那
+	       leave severely alone					绝对不理，严格不介入；敬而远之；不再打交道；不再去干
+		   
+	10. all along							始终，一直
+	
+
+四. 生词
+	
+	1. militia								n. 民兵组织 (单复同形)
+	      poultry								n. 家禽 (单复同形)
+	      vermin								n. 害虫 (单复同形)
+		  
+	2. foliage								n. 叶子 (不可数名词的集体名词)
+	      machinery								n. 机械 (不可数名词的集体名词)
+		  
+	3. jury									n. 陪审团 (既可数也不可数)
+	      faculty								n. 科、系、学院 (既可数也不可数)
+                crew									n. 队，组，全体人员(既可数也不可数)
+	       association							n. 协会，联盟(既可数也不可数
+
+		  
+五. 论文生词
+	
+	1. deviate from							脱离，偏离……
+	
+	2. prescribed							adj. 规定的
+	
+	3. permute								v. 排列
+	
+	4. henceforth							adv. 从此以后
+	
